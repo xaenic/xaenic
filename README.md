@@ -20,7 +20,7 @@ I'm a passionate student and aspiring web developer, diving into the world of co
 Check out some of my projects:
 
 1. [Portfolio Website](link-to-portfolio)
-2. [Cool Project](link-to-cool-project)
+2. [Cool Project](https://mipix.vercel.app)
 3. [Another Awesome Project](link-to-another-awesome-project)
 
 ## 📫 Let's Connect
@@ -31,8 +31,7 @@ Check out some of my projects:
 
 ## 🌟 Fun Fact
 
-I'm a huge anime fan! My favorite series is [Your Favorite Anime]. Feel free to recommend some cool anime to me! 🌸
+I'm a huge anime fan! My favorite series is [Summertime Rendering]. Feel free to recommend some cool anime to me! 🌸
 
 ---
 
-Feel free to customize and add more sections based on your preferences. Enjoy showcasing your skills and personality on your GitHub profile! 😊
