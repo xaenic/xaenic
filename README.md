@@ -15,6 +15,8 @@ I'm a passionate student and aspiring web developer, diving into the world of co
 - Node.js
 - Python
 - Java
+- MySQL
+- MongoDB
 - Git & GitHub
 
 ## 🚀 Projects
