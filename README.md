@@ -13,6 +13,8 @@ I'm a passionate student and aspiring web developer, diving into the world of co
 - HTML, CSS, JavaScript
 - React.js
 - Node.js
+- Python
+- Java
 - Git & GitHub
 
 ## 🚀 Projects
@@ -20,7 +22,7 @@ I'm a passionate student and aspiring web developer, diving into the world of co
 Check out some of my projects:
 
 1. [Portfolio Website](link-to-portfolio)
-2. [Cool Project](https://mipix.vercel.app)
+2. [mipix - anime site](https://mipix.vercel.app)
 3. [Another Awesome Project](link-to-another-awesome-project)
 
 ## 📫 Let's Connect
