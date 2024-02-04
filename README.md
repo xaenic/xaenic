@@ -35,7 +35,7 @@ Check out some of my projects:
 
 ## 🌟 Fun Fact
 
-I'm a huge anime fan! My favorite series is [Summertime Rendering]. Feel free to recommend some cool anime to me! 🌸
+I'm a huge anime fan! My favorite series is [Summertime Rendering](https://mipix.vercel.app/anime/129201). Feel free to recommend some cool anime to me! 🌸
 
 ---
 
