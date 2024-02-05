@@ -28,10 +28,7 @@ Check out some of my projects:
 
 
 ## 📫 Let's Connect
-
-- 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
 - 📧 Email: allanvillegas35@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
 
 ## 🌟 Fun Fact
 
