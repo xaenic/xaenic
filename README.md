@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Allan 🌟
-
-I'm a passionate student and aspiring web developer, diving into the world of coding and creativity. 🚀
+<div id="header" align="center">
+ <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="100"/>
+</div>
+ I'm a passionate student and aspiring web developer, diving into the world of coding and creativity. 🚀
 
 ## 🌐 About Me
 
@@ -18,7 +20,7 @@ I'm a passionate student and aspiring web developer, diving into the world of co
 - MySQL
 - MongoDB
 - Git & GitHub
-- 
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axxyyl&layout=compact&theme=vision-friendly-dark)](https://github.com/axxyyl/github-readme-stats)
 
 ## 🚀 Projects
