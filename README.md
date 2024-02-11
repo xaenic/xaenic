@@ -32,7 +32,7 @@ Check out some of my projects:
 
 
 ## 📫 Let's Connect
-- 📧 Email: allanvillegas35@example.com
+- 📧 Email: allanvillegas35@gmail.com
 
 ## 🌟 Fun Fact
 
