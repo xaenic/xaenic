@@ -21,7 +21,7 @@
 - MongoDB
 - Git & GitHub
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axxyyl&layout=compact&theme=vision-friendly-dark)](https://github.com/axxyyl/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaenic&layout=compact&theme=vision-friendly-dark)](https://github.com/xaenic/github-readme-stats)
 
 ## 🚀 Projects
 
