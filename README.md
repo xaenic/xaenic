@@ -29,6 +29,7 @@ Check out some of my projects:
 
 1. [Portfolio Website](https://qiwi-mu.vercel.app/)
 2. [mipix - anime site](https://mipix.vercel.app)
+3. [Pharmacy Management - school proj](http://pharmacy-rose.vercel.app/)
 
 
 ## 📫 Let's Connect
